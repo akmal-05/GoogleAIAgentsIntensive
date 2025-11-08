@@ -1,0 +1,8 @@
+openai
+google-generativeai
+langchain
+anthropic
+pandas
+matplotlib
+jupyter
+
