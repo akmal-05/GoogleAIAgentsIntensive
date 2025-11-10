@@ -106,12 +106,13 @@ This repository serves as:
 ## Resources
 
 - [Google AI Documentation](https://ai.google.dev/)
-- [LangChain Documentation](https://python.langchain.com/)
-- [Anthropic Documentation](https://docs.anthropic.com/)
+- [Agent Development Kit](https://google.github.io/adk-docs/)
+- [Introduction to Agents white paper](https://www.kaggle.com/whitepaper-introduction-to-agents)
+- [Youtube](https://www.youtube.com/watch?v=ZaUcqznlhv8&list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE)
 
 ## Notes
 
-- Each day's folder contains a `notebook_template.ipynb` for hands-on experiments
+- Each day's folder contains a `code.ipynb` for hands-on experiments
 - Use `concepts.md` to document key learnings and insights
 - The `Resources/` folder is for additional materials and references
 - The `Notes/` folder is for general course notes and reflections
