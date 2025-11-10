@@ -7,8 +7,6 @@
 
 This document provides a guide for transitioning from basic AI models to robust, production-ready autonomous agents.
 
----
-
 ## I. Paradigm Shift: From Prediction to Autonomy
 - Traditional AI focused on **passive, discrete tasks** requiring human input.  
 - **AI agents** are autonomous systems that plan, decide, and act to achieve goals.  
