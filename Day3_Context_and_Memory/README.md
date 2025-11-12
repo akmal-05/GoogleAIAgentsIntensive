@@ -1,37 +1,36 @@
 # Day 3: Context and Memory
 
 ## Learning Objectives
+Today’s focus is on how agents handle information over time—maintaining context, managing memory, and optimizing performance.
 
-Today we'll explore how agents manage context and maintain memory:
+By the end of this session, you should understand:
 - Context window management
 - Short-term and long-term memory systems
 - State management in agents
 - Conversation history and context retention
 - Memory optimization strategies
 
-## Topics Covered
+---
 
-- Context Window Management
-- Memory Systems (Short-term vs. Long-term)
-- State Management Patterns
-- Conversation History Handling
-- Context Compression Techniques
-- Memory Retrieval Strategies
+## Topics Covered
+1. **Context Window Management** – Understanding how LLMs process limited context and techniques to optimize it.  
+2. **Memory Systems (Short-term vs. Long-term)** – Implementing temporary and persistent storage for agent knowledge.  
+3. **State Management Patterns** – Designing internal structures for agents to maintain reasoning state.  
+4. **Conversation History Handling** – Capturing, storing, and retrieving multi-turn dialogue efficiently.  
+5. **Context Compression Techniques** – Summarization and pruning to reduce token cost.  
+6. **Memory Retrieval Strategies** – Fetching relevant memories based on recency, relevance, and importance.
+
+---
 
 ## Daily Goals
+- Implement a basic **memory system** for an agent.  
+- Understand **context window limitations** and ways to extend effective reasoning.  
+- Build **state management** for multi-turn interactions.  
+- Document insights and architectures in **concepts.md**.
 
-- [ ] Implement a memory system for an agent
-- [ ] Understand context window limitations and solutions
-- [ ] Build state management for multi-turn conversations
-- [ ] Document memory patterns in `concepts.md`
+---
 
 ## Resources
-
-- Use `notebook_template.ipynb` for hands-on experiments
-- Record concepts and insights in `concepts.md`
-- Reference materials in `../Resources/`
-
-## Next Steps
-
-After completing Day 3, proceed to [Day 4: Evaluation and Quality](../Day4_Evaluation_and_Quality/)
-
+- Use `notebook_template.ipynb` for practical experiments.  
+- Record your key takeaways and explanations in `concepts.md`.  
+- Reference supporting materials in `../Resources/`.
