@@ -3,7 +3,7 @@
 
 ### 📘 Overview  
 This README summarizes **Day 4** of Google’s *AI Agents Intensive*, focusing on **Agent Quality** — the framework for evaluating, monitoring, and improving autonomous AI systems.  
-For full detailed notes, see **[`concept.md`](./concept.md)**.  
+For full detailed notes, see **[`concept.md`](GoogleAIAgentsIntensive/Day4_Evaluation_and_Quality/concept.md)**.  
 
 ---
 
