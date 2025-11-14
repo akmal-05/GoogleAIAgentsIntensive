@@ -34,7 +34,7 @@ This repository serves as:
 
 [📁 Day 4 Folder](./Day4_Evaluation_and_Quality/)
 
-### Day 5: Capstone Project
+### Day 5: Prototype to Production
 **Focus:** Building a complete, production-ready AI agent project.
 
 [📁 Day 5 Folder](./Day5_Capstone_Project/)
@@ -59,7 +59,7 @@ This repository serves as:
 │   ├── README.md
 │   ├── notebook_template.ipynb
 │   └── concepts.md
-├── Day5_Capstone_Project/
+├── Day5_Prototype to Production/
 │   ├── README.md
 │   ├── notebook_template.ipynb
 │   └── concepts.md
